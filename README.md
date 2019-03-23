@@ -5,7 +5,8 @@ For this second RUB we decided to work on 3D printing, with the help of two expe
 
 Here are the resources:
 
-- [slides](./slides/slides_rub01.pdf)
+- slides
+	- [PDF](./slides/slides_rub01.pdf)
 	- [Google Slides](https://docs.google.com/presentation/d/1S2lXeNPgIYb_n9s0tPOjXbdLHJCMo5gnbPRjUZZcOFc/edit?usp=sharing) (with videos)
 - [pictures of the event](./pictures/)
 - [report of the event](./report.md)
